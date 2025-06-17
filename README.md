@@ -1,4 +1,6 @@
-[![ozemrani's 42 profile](https://42term.vercel.app/api/widget/student/ozemrani?theme=light)](https://42term.vercel.app)
+[![ozemrani's 42 profile](https://42term.vercel.app/api/widget/student/ozemrani?theme=dark)](https://42term.vercel.app)
+
+[![ozemrani's 42 projects](https://42term.vercel.app/api/widget/projects/ozemrani?theme=dark)](https://42term.vercel.app)
 
 Welcome to my GitHub profile. Here you'll find my latest projects, favorite collaborations, and a showcase of my skills in software development. I’m passionate about building innovative solutions, sharing knowledge, and continuously learning new technologies.
 
