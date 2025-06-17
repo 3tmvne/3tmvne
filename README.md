@@ -10,4 +10,4 @@ Welcome to my GitHub profile. Here you'll find my latest projects, favorite coll
 ![3tmvne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=3tmvne&show_icons=true&hide_title=true&count_private=true&theme=github_dark)
 
 ## 📫 Connect With Me
-- [https://www.linkedin.com/in/othmane-zemrani-859b01265/](#)
+- [linkedin](https://www.linkedin.com/in/othmane-zemrani-859b01265/)
